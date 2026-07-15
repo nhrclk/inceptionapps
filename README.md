@@ -43,6 +43,10 @@ Replies usually within a couple of days.
 
 ---
 
+## Privacy
+
+We collect nothing. No accounts, no telemetry, no analytics — everything the app produces stays on your device. Full policy: [PRIVACY.md](PRIVACY.md).
+
 ## About
 
 InceptionApps is a small independent studio making desktop and mobile tools that stay out of your way. No accounts, no lock-in, no upsells.
