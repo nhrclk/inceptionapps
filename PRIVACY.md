@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 2026-07-15_
+_Last updated: 2026-10-08_
 
 This policy covers **Mock Easy** and any other InceptionApps app that links back to this page.
 
@@ -19,6 +19,10 @@ Only the data you create yourself while using the app:
 - **Mock Easy**: your route configuration, mock endpoints, captured responses, and TLS certificate. Stored inside the app's sandbox container on your Mac (`~/Library/Containers/com.inceptionapps.easymock/`). Deleting the app removes everything.
 
 We never see this data. It doesn't leave your machine unless you explicitly Export it and share the file yourself.
+
+## Purchases and subscriptions
+
+Mock Easy is free to download. The optional **Mock Easy Pro** subscription is sold and processed entirely by Apple through the App Store. We never see your name, Apple Account, or payment details. To decide whether Pro features are unlocked, the app asks the App Store on your Mac (via Apple's StoreKit) whether your subscription is active; that check stays between your Mac and Apple, and nothing about it is sent to us. Apple's handling of purchase data is covered by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ## Network requests
 

@@ -10,7 +10,7 @@ Small, focused developer tools for macOS, iOS and Android — built by [@nhrclk]
 
 Point Mock Easy at your real API, click **Record**, and every response becomes a reusable mock. Turn **Intercept** on to pause any request mid-flight and rewrite the JSON before it reaches your client. Multiple routes on their own ports, live log with a searchable JSON tree, HTTPS out of the box.
 
-*Available on the Mac App Store.*
+*Free on the Mac App Store.* The free version includes one route, five endpoints, mocks, HTTPS and the live log. **Mock Easy Pro** (monthly or yearly, first month free) adds unlimited routes and endpoints, proxy, recording, intercept, and import/export. Bought Mock Easy 1.0? Pro is already yours, for good.
 
 **Common questions**
 
@@ -28,6 +28,12 @@ Point Mock Easy at your real API, click **Record**, and every response becomes a
 
 - **Client hits the route port and gets `connection refused`**  
   That port doesn't have a route bound to it — check the Routes drawer, confirm the port number, and make sure the route is enabled.
+
+- **How do I cancel or change my Pro subscription?**  
+  Subscriptions are managed by Apple: open the App Store app → click your name → **Account Settings** → **Subscriptions**, or click **★ Pro** in Mock Easy → **Manage Subscription**. Cancel at least 24 hours before the renewal date to avoid the next charge; you keep Pro until the end of the period you paid for.
+
+- **I'm subscribed (or I bought 1.0) but the app shows the free version**  
+  Click **★ Go Pro** → **Restore Purchases** and sign in with the Apple Account you bought with. The first check after an update needs an internet connection.
 
 - **Do you collect any data?**  
   No. Mock Easy is fully sandboxed, has no telemetry, no analytics, no cloud login. Your endpoints, configs, and captured responses live only on your Mac.
