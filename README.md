@@ -10,7 +10,7 @@ Small, focused developer tools for macOS, iOS and Android — built by [@nhrclk]
 
 Point Mock Easy at your real API, click **Record**, and every response becomes a reusable mock. Turn **Intercept** on to pause any request mid-flight and rewrite the JSON before it reaches your client. Multiple routes on their own ports, live log with a searchable JSON tree, HTTPS out of the box.
 
-*Free on the Mac App Store.* The free version includes one route, five endpoints, mocks, HTTPS and the live log. **Mock Easy Pro** (monthly or yearly, first month free) adds unlimited routes and endpoints, proxy, recording, intercept, and import/export. Bought Mock Easy 1.0? Pro is already yours, for good.
+*Free on the Mac App Store.* The free version includes one route, ten endpoints, proxy, HTTPS and the live log, plus three recording sessions and three intercept sessions to try them out. Recorded endpoints don't count toward the ten. **Mock Easy Pro** (monthly or yearly, first month free) removes every limit: unlimited routes, endpoints, recording and intercept, plus import/export. Bought Mock Easy 1.0? Pro is already yours, for good.
 
 **Common questions**
 
